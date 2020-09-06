@@ -1,0 +1,9 @@
+D:\U\Pika\Taller 2 NET\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+D:\U\Pika\Taller 2 NET\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\U\Pika\Taller 2 NET\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\U\Pika\Taller 2 NET\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\U\Pika\Taller 2 NET\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\U\Pika\Taller 2 NET\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+D:\U\Pika\Taller 2 NET\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\U\Pika\Taller 2 NET\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\U\Pika\Taller 2 NET\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache

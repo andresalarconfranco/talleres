@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Web",
+    "\\tests",
+    "\\tests\\FunctionalTests",
+    "\\tests\\FunctionalTests\\Web"
+  ],
+  "SelectedNode": "\\src\\Web\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
